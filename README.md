@@ -1,4 +1,4 @@
-# Icon Generator for Fusio 360
+# Icon Generator for Fusion 360
 ## Running 
 run as follows
 
